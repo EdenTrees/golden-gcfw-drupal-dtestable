@@ -267,11 +267,11 @@ h6 {
 	padding: 40px 0 20px 0;
 }
 
-`
-div.pageWrap{
-    width:90%;
+
+div#pageWrap {
+    width: 90%;
     max-width: 960px;
-    display:inline-block;
+    display: inline-block;
     margin: 0 auto;
 }
 
